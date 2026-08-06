@@ -1,0 +1,2348 @@
+====== WELCOME TO SOUL REAPER:THE HERO'S LAST STAND RPG ======
+
+Select the difficulty mode:
+1. Normal
+2. Hard
+Your choice: 1
+
+Before all of this, the hero was only human.
+He lived in Karakura Town, a quiet place that never truly felt ordinary.
+One day, after crossing the border between life and death, he became a Shinigami.
+No ancient blessing was given to him. No legendary power awakened inside his soul.
+He had only his will, his blade, and the duty placed before him.
+
+Karakura Town is now drowning in restless spirits.
+Hollows have begun to appear across the streets, blocking pure souls from reaching the afterlife.
+These Hollows were not always monsters. Many were once gentle spirits, twisted by a darker force.
+To save them, the hero must defeat them. Not out of hatred, but to end their suffering.
+
+But Karakura Town is only the beginning...
+
+------------------------------------------------
+Location: Karakura Town | Danger: Low | Stage: 1
+Enemy: Hollow
+HP:80/80 | Difficulty: 2 | Region: Karakura Town
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs Hollow-1
+
+Turn: 1
+Ichigo HP: 150/150 | Hollow-1 HP: 80/80
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-1 HP: 55/80
+Hollow-1 raises its spiritual pressure and prepares to strike...
+Hollow-1 attacked. Damage taken: 6 | Ichigo HP: 144/150
+
+Turn: 2
+Ichigo HP: 144/150 | Hollow-1 HP: 55/80
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+Hollow-1 raises its spiritual pressure and prepares to strike...
+Hollow-1 attacked. Damage taken: 3 | Ichigo HP: 141/150
+Perfect guard! Ichigo counterattacked for 25 damage. Hollow-1 HP: 30/80
+
+Turn: 3
+Ichigo HP: 141/150 | Hollow-1 HP: 30/80
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-1 HP: 5/80
+Hollow-1 raises its spiritual pressure and prepares to strike...
+Hollow-1 attacked. Damage taken: 6 | Ichigo HP: 135/150
+
+Turn: 4
+Ichigo HP: 135/150 | Hollow-1 HP: 5/80
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+CRITIC DAMAGE!!
+Error: Hollow-1 HP cannot fall below 0.
+Ichigo attacked. Hollow-1 HP: 0/80
+
+[VICTORY] Hollow-1 was defeated!
++20 coins earned. Budget: 70
+Your gift was added to your inventory.
+You earned a gift for defeating this enemy.
+Enter 1 to reveal your gift, or 0 to skip: 1
+Your gift: Hollow Potion | Heal: 35 | Price: 0
+
+Do you want to visit the shop before moving on? (1: Yes, 2: No): 2
+You decided to skip the shop for now.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 1
+
+------------------------------------------------
+Location: Karakura Town | Danger: Low | Stage: 2
+Enemy: Hollow
+HP:100/100 | Difficulty: 4 | Region: Karakura Town
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs Hollow-2
+
+Turn: 1
+Ichigo HP: 135/150 | Hollow-2 HP: 100/100
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-2 HP: 75/100
+Hollow-2 raises its spiritual pressure and prepares to strike...
+Hollow-2 attacked. Damage taken: 12 | Ichigo HP: 123/150
+
+Turn: 2
+Ichigo HP: 123/150 | Hollow-2 HP: 75/100
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+Hollow-2 raises its spiritual pressure and prepares to strike...
+Hollow-2 attacked. Damage taken: 6 | Ichigo HP: 117/150
+Perfect guard! Ichigo counterattacked for 25 damage. Hollow-2 HP: 50/100
+
+Turn: 3
+Ichigo HP: 117/150 | Hollow-2 HP: 50/100
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+Hollow-2 raises its spiritual pressure and prepares to strike...
+Hollow-2 attacked. Damage taken: 6 | Ichigo HP: 111/150
+Ichigo blocked the attack, but could not find a counter opening.
+
+Turn: 4
+Ichigo HP: 111/150 | Hollow-2 HP: 50/100
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-2 HP: 25/100
+Hollow-2 raises its spiritual pressure and prepares to strike...
+Hollow-2 attacked. Damage taken: 12 | Ichigo HP: 99/150
+
+Turn: 5
+Ichigo HP: 99/150 | Hollow-2 HP: 25/100
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+CRITIC DAMAGE!!
+Error: Hollow-2 HP cannot fall below 0.
+Ichigo attacked. Hollow-2 HP: 0/100
+
+[VICTORY] Hollow-2 was defeated!
++40 coins earned. Budget: 110
+Your gift was added to your inventory.
+You earned a gift for defeating this enemy.
+Enter 1 to reveal your gift, or 0 to skip: 1
+Your gift: Hollow Potion | Heal: 35 | Price: 0
+
+Do you want to visit the shop before moving on? (1: Yes, 2: No): 1
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 110
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 5
+Soul Cutter was added to your inventory.
+Soul Cutter bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 20
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 1
+Small Potion was added to your inventory.
+Small Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 0
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 0
+You left the shop.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 2
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25 | Equipped
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Hollow Potion | Heal: 35 | Price: 0
+4. Soul Cutter | Price: 90 | Damage: 60
+5. Small Potion | Heal: 25 | Price: 20
+Active sword: Normal Shinigami Sword (25 damage)
+Active armour: None
+Enter 0 if you do not want to use an item.
+Item number to use: 4
+Soul Cutter equipped!
+Inventory action finished.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Hollow Potion | Heal: 35 | Price: 0
+4. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+5. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 1
+
+------------------------------------------------
+Location: Karakura Town | Danger: Low | Stage: 3
+Enemy: Hollow
+HP:120/120 | Difficulty: 5 | Region: Karakura Town
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs Hollow-3
+
+Turn: 1
+Ichigo HP: 99/150 | Hollow-3 HP: 120/120
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-3 HP: 60/120
+Hollow-3 raises its spiritual pressure and prepares to strike...
+Hollow-3 attacked. Damage taken: 15 | Ichigo HP: 84/150
+
+Turn: 2
+Ichigo HP: 84/150 | Hollow-3 HP: 60/120
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-3 HP: 0/120
+
+[VICTORY] Hollow-3 was defeated!
++50 coins earned. Budget: 50
+Your gift was added to your inventory.
+You earned a gift for defeating this enemy.
+Enter 1 to reveal your gift, or 0 to skip: 1
+Your gift: Hollow Potion | Heal: 35 | Price: 0
+
+As the last Hollow fades, Karakura Town grows silent for the first time in days.
+But before Ichigo can rest, a message reaches him from Soul Society:
+Heaven itself is in danger.
+
+To reach Soul Society, Ichigo must cross Hueco Mundo, a dead world between despair and darkness.
+Hueco Mundo is not a place for the living, nor a place for peaceful souls.
+Its sky never brightens. Its ground is pale like bone.
+Every step echoes with the hunger of corrupted spirits.
+Here, the Arrancars wait.
+
+Do you want to visit the shop before moving on? (1: Yes, 2: No): 1
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 50
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 2
+Big Potion was added to your inventory.
+Big Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 0
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 0
+You left the shop.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Hollow Potion | Heal: 35 | Price: 0
+4. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+5. Small Potion | Heal: 25 | Price: 20
+6. Hollow Potion | Heal: 35 | Price: 0
+7. Big Potion | Heal: 65 | Price: 50
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 1
+
+------------------------------------------------
+Location: Hueco Mundo | Danger: Medium | Stage: 4
+Enemy: Arrancar
+HP:180/180 | Difficulty: 7 | Region: Hueco Mundo
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs Arrancar-1
+
+Turn: 1
+Ichigo HP: 84/150 | Arrancar-1 HP: 180/180
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Arrancar-1 HP: 120/180
+Arrancar-1 raises its spiritual pressure and prepares to strike...
+Arrancar-1 attacked. Damage taken: 35 | Ichigo HP: 49/150
+
+Turn: 2
+Ichigo HP: 49/150 | Arrancar-1 HP: 120/180
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Arrancar-1 HP: 60/180
+Arrancar-1 raises its spiritual pressure and prepares to strike...
+Arrancar-1 attacked. Damage taken: 35 | Ichigo HP: 14/150
+
+Turn: 3
+Ichigo HP: 14/150 | Arrancar-1 HP: 60/180
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Hollow Potion | Heal: 35 | Price: 0
+4. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+5. Small Potion | Heal: 25 | Price: 20
+6. Hollow Potion | Heal: 35 | Price: 0
+7. Big Potion | Heal: 65 | Price: 50
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+Enter 0 if you do not want to use an item.
+Item number to use: 6
+Hollow Potion used! HP: 49/150
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Arrancar-1 HP: 0/180
+
+[VICTORY] Arrancar-1 was defeated!
++140 coins earned. Budget: 140
+Your gift was added to your inventory.
+You earned a gift for defeating this enemy.
+Enter 1 to reveal your gift, or 0 to skip: 1
+Your gift: Arrancar Potion | Heal: 60 | Price: 0
+
+Do you want to visit the shop before moving on? (1: Yes, 2: No): 1
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 140
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 8
+Heavy Armour was added to your inventory.
+Heavy Armour bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 65
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 10
+Map Scroll was added to your inventory.
+Map Scroll bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 20
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 9
+Enemy Tip was added to your inventory.
+Enemy Tip bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 5
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 0
+You left the shop.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Map Scroll | Reveals the full map | Price: 45
+10. Enemy Tip | Reveals the next unknown enemy | Price: 15
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 2
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Map Scroll | Reveals the full map | Price: 45
+10. Enemy Tip | Reveals the next unknown enemy | Price: 15
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+Enter 0 if you do not want to use an item.
+Item number to use: 10
+
+--- Enemy Tip ---
+[INTELLIGENCE REPORT]
+Order: 5
+Region: Hueco Mundo
+Danger: Medium
+Enemy: Arrancar-2
+HP: 210/210
+Difficulty: 8
+------------------
+Inventory action finished.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 2
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Map Scroll | Reveals the full map | Price: 45
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+Enter 0 if you do not want to use an item.
+Item number to use: 9
+
+--- MAP ---
+1. Region: Karakura Town | Danger: Low | Enemy: Hollow-1 | HP: 0/80 | Status: Defeated
+2. Region: Karakura Town | Danger: Low | Enemy: Hollow-2 | HP: 0/100 | Status: Defeated
+3. Region: Karakura Town | Danger: Low | Enemy: Hollow-3 | HP: 0/120 | Status: Defeated
+4. Region: Hueco Mundo | Danger: Medium | Enemy: Arrancar-1 | HP: 0/180 | Status: Defeated <- Current location
+5. Region: Hueco Mundo | Danger: Medium | Enemy: Arrancar-2 | HP: 210/210 | Status: Alive
+6. Region: Soul Society | Danger: High | Enemy: VastoLorde | HP: 500/500 | Status: Alive
+-------------
+
+Inventory action finished.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 2
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Map Scroll | Reveals the full map | Price: 45
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+Enter 0 if you do not want to use an item.
+Item number to use: 8
+Heavy Armour equipped! Defense: 17
+Inventory action finished.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+9. Map Scroll | Reveals the full map | Price: 45
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 1
+
+------------------------------------------------
+Location: Hueco Mundo | Danger: Medium | Stage: 5
+Enemy: Arrancar
+HP:210/210 | Difficulty: 8 | Region: Hueco Mundo
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs Arrancar-2
+
+Turn: 1
+Ichigo HP: 49/150 | Arrancar-2 HP: 210/210
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Arrancar-2 HP: 150/210
+Arrancar-2 raises its spiritual pressure and prepares to strike...
+Arrancar-2 attacked. Damage taken: 23 | Ichigo HP: 26/150
+
+Turn: 2
+Ichigo HP: 26/150 | Arrancar-2 HP: 150/210
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+CRITIC DAMAGE!!
+Ichigo attacked. Arrancar-2 HP: 30/210
+Arrancar-2 raises its spiritual pressure and prepares to strike...
+Arrancar-2 attacked. Damage taken: 23 | Ichigo HP: 3/150
+
+Turn: 3
+Ichigo HP: 3/150 | Arrancar-2 HP: 30/210
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+9. Map Scroll | Reveals the full map | Price: 45
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 9
+
+--- MAP ---
+1. Region: Karakura Town | Danger: Low | Enemy: Hollow-1 | HP: 0/80 | Status: Defeated
+2. Region: Karakura Town | Danger: Low | Enemy: Hollow-2 | HP: 0/100 | Status: Defeated
+3. Region: Karakura Town | Danger: Low | Enemy: Hollow-3 | HP: 0/120 | Status: Defeated
+4. Region: Hueco Mundo | Danger: Medium | Enemy: Arrancar-1 | HP: 0/180 | Status: Defeated
+5. Region: Hueco Mundo | Danger: Medium | Enemy: Arrancar-2 | HP: 30/210 | Status: Alive <- Current location
+6. Region: Soul Society | Danger: High | Enemy: VastoLorde | HP: 500/500 | Status: Alive
+-------------
+
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+CRITIC DAMAGE!!
+Error: Arrancar-2 HP cannot fall below 0.
+Ichigo attacked. Arrancar-2 HP: 0/210
+
+[VICTORY] Arrancar-2 was defeated!
++160 coins earned. Budget: 165
+Your gift was added to your inventory.
+You earned a gift for defeating this enemy.
+Enter 1 to reveal your gift, or 0 to skip: 1
+Your gift: Arrancar Potion | Heal: 60 | Price: 0
+
+With the Arrancars defeated, the path to Soul Society opens.
+But their final words reveal the truth:
+They were not the source of this nightmare. They were only servants.
+The one behind everything is Vasto Lorde.
+
+Soul Society should have been a place of peace.
+But now its gates tremble under a pressure older than memory.
+Vasto Lorde has waited since the beginning of time to claim every soul beyond death.
+If he wins, no spirit will ever find peace again.
+
+Do you want to visit the shop before moving on? (1: Yes, 2: No): 1
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 165
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 6
+Bankai Sword was added to your inventory.
+Bankai Sword bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 45
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 1
+Small Potion was added to your inventory.
+Small Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 25
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 1
+Small Potion was added to your inventory.
+Small Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 5
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 0
+You left the shop.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+9. Map Scroll | Reveals the full map | Price: 45
+10. Arrancar Potion | Heal: 60 | Price: 0
+11. Bankai Sword | Price: 120 | Damage: 75
+12. Small Potion | Heal: 25 | Price: 20
+13. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 2
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+9. Map Scroll | Reveals the full map | Price: 45
+10. Arrancar Potion | Heal: 60 | Price: 0
+11. Bankai Sword | Price: 120 | Damage: 75
+12. Small Potion | Heal: 25 | Price: 20
+13. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 11
+Bankai Sword equipped!
+Inventory action finished.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+9. Map Scroll | Reveals the full map | Price: 45
+10. Arrancar Potion | Heal: 60 | Price: 0
+11. Bankai Sword | Price: 120 | Damage: 75 | Equipped
+12. Small Potion | Heal: 25 | Price: 20
+13. Small Potion | Heal: 25 | Price: 20
+Active sword: Bankai Sword (75 damage)
+Active armour: Heavy Armour (17 defense)
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 2
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+9. Map Scroll | Reveals the full map | Price: 45
+10. Arrancar Potion | Heal: 60 | Price: 0
+11. Bankai Sword | Price: 120 | Damage: 75 | Equipped
+12. Small Potion | Heal: 25 | Price: 20
+13. Small Potion | Heal: 25 | Price: 20
+Active sword: Bankai Sword (75 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 9
+
+--- MAP ---
+1. Region: Karakura Town | Danger: Low | Enemy: Hollow-1 | HP: 0/80 | Status: Defeated
+2. Region: Karakura Town | Danger: Low | Enemy: Hollow-2 | HP: 0/100 | Status: Defeated
+3. Region: Karakura Town | Danger: Low | Enemy: Hollow-3 | HP: 0/120 | Status: Defeated
+4. Region: Hueco Mundo | Danger: Medium | Enemy: Arrancar-1 | HP: 0/180 | Status: Defeated
+5. Region: Hueco Mundo | Danger: Medium | Enemy: Arrancar-2 | HP: 0/210 | Status: Defeated <- Current location
+6. Region: Soul Society | Danger: High | Enemy: VastoLorde | HP: 500/500 | Status: Alive
+-------------
+
+Inventory action finished.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 1
+
+=======================================================
+[EPIC SUPPORT] Your allies arrive at the gate of Vasto Lorde!
+Melisa and Aslan transfer their power to you for the final battle!
+Melisa supported you: 160 healing was attempted. HP 3 -> 150/150
+Aslan supported you: Bankai Sword damage increased by +70 (75 -> 145).
+=======================================================
+
+
+------------------------------------------------
+Location: Soul Society | Danger: High | Stage: 6
+Enemy: Vasto Lorde
+HP:500/500 | Difficulty: 10 | Region: Soul Society
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs VastoLorde
+
+Turn: 1
+Ichigo HP: 150/150 | VastoLorde HP: 500/500
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. VastoLorde HP: 355/500
+VastoLorde raises its spiritual pressure and prepares to strike...
+VastoLorde attacked. Damage taken: 93 | Ichigo HP: 57/150
+
+Turn: 2
+Ichigo HP: 57/150 | VastoLorde HP: 355/500
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Arrancar Potion | Heal: 60 | Price: 0
+8. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+9. Map Scroll | Reveals the full map | Price: 45
+10. Arrancar Potion | Heal: 60 | Price: 0
+11. Bankai Sword | Price: 120 | Damage: 145 | Equipped
+12. Small Potion | Heal: 25 | Price: 20
+13. Small Potion | Heal: 25 | Price: 20
+Active sword: Bankai Sword (145 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 10
+Arrancar Potion used! HP: 117/150
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. VastoLorde HP: 210/500
+VastoLorde raises its spiritual pressure and prepares to strike...
+VastoLorde attacked. Damage taken: 93 | Ichigo HP: 24/150
+
+Turn: 3
+Ichigo HP: 24/150 | VastoLorde HP: 210/500
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+8. Map Scroll | Reveals the full map | Price: 45
+9. Arrancar Potion | Heal: 60 | Price: 0
+10. Bankai Sword | Price: 120 | Damage: 145 | Equipped
+11. Small Potion | Heal: 25 | Price: 20
+12. Small Potion | Heal: 25 | Price: 20
+Active sword: Bankai Sword (145 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 9
+Arrancar Potion used! HP: 84/150
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60
+4. Small Potion | Heal: 25 | Price: 20
+5. Hollow Potion | Heal: 35 | Price: 0
+6. Big Potion | Heal: 65 | Price: 50
+7. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+8. Map Scroll | Reveals the full map | Price: 45
+9. Bankai Sword | Price: 120 | Damage: 145 | Equipped
+10. Small Potion | Heal: 25 | Price: 20
+11. Small Potion | Heal: 25 | Price: 20
+Active sword: Bankai Sword (145 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 10
+Small Potion used! HP: 109/150
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 4
+You cannot escape from the final enemy!
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 4
+You cannot escape from the final enemy!
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+VastoLorde raises its spiritual pressure and prepares to strike...
+VastoLorde attacked. Damage taken: 47 | Ichigo HP: 62/150
+Ichigo blocked the attack, but could not find a counter opening.
+
+Turn: 4
+Ichigo HP: 62/150 | VastoLorde HP: 210/500
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+VastoLorde raises its spiritual pressure and prepares to strike...
+VastoLorde attacked. Damage taken: 47 | Ichigo HP: 15/150
+Ichigo blocked the attack, but could not find a counter opening.
+
+Turn: 5
+Ichigo HP: 15/150 | VastoLorde HP: 210/500
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60
+4. Hollow Potion | Heal: 35 | Price: 0
+5. Big Potion | Heal: 65 | Price: 50
+6. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+7. Map Scroll | Reveals the full map | Price: 45
+8. Bankai Sword | Price: 120 | Damage: 145 | Equipped
+9. Small Potion | Heal: 25 | Price: 20
+10. Small Potion | Heal: 25 | Price: 20
+Active sword: Bankai Sword (145 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 2
+Hollow Potion used! HP: 50/150
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60
+3. Hollow Potion | Heal: 35 | Price: 0
+4. Big Potion | Heal: 65 | Price: 50
+5. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+6. Map Scroll | Reveals the full map | Price: 45
+7. Bankai Sword | Price: 120 | Damage: 145 | Equipped
+8. Small Potion | Heal: 25 | Price: 20
+9. Small Potion | Heal: 25 | Price: 20
+Active sword: Bankai Sword (145 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 3
+Hollow Potion used! HP: 85/150
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+VastoLorde raises its spiritual pressure and prepares to strike...
+VastoLorde attacked. Damage taken: 47 | Ichigo HP: 38/150
+Ichigo blocked the attack, but could not find a counter opening.
+
+Turn: 6
+Ichigo HP: 38/150 | VastoLorde HP: 210/500
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60
+3. Big Potion | Heal: 65 | Price: 50
+4. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+5. Map Scroll | Reveals the full map | Price: 45
+6. Bankai Sword | Price: 120 | Damage: 145 | Equipped
+7. Small Potion | Heal: 25 | Price: 20
+8. Small Potion | Heal: 25 | Price: 20
+Active sword: Bankai Sword (145 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 3
+Big Potion used! HP: 103/150
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+VastoLorde raises its spiritual pressure and prepares to strike...
+VastoLorde attacked. Damage taken: 47 | Ichigo HP: 56/150
+Perfect guard! Ichigo counterattacked for 145 damage. VastoLorde HP: 65/500
+
+Turn: 7
+Ichigo HP: 56/150 | VastoLorde HP: 65/500
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Error: VastoLorde HP cannot fall below 0.
+Ichigo attacked. VastoLorde HP: 0/500
+
+[VICTORY] VastoLorde was defeated!
++400 coins earned. Budget: 405
+Your gift was added to your inventory.
+You earned a gift for defeating this enemy.
+Enter 1 to reveal your gift, or 0 to skip: 1
+Your gift: The Lord's Sword | Price: 0 | Damage: 200
+
+*** CONGRATULATIONS! You defeated every enemy and saved the world! ***
+
+Your journey summary is being prepared. Please wait...
+[SYSTEM] Game summary was saved to your_history_1.txt.
+
+Do you want to play again? (1: Yes, 2: No): 1
+
+A new game is being prepared...
+
+Select the difficulty mode:
+1. Normal
+2. Hard
+Your choice: 2
+
+Before all of this, the hero was only human.
+He lived in Karakura Town, a quiet place that never truly felt ordinary.
+One day, after crossing the border between life and death, he became a Shinigami.
+No ancient blessing was given to him. No legendary power awakened inside his soul.
+He had only his will, his blade, and the duty placed before him.
+
+Karakura Town is now drowning in restless spirits.
+Hollows have begun to appear across the streets, blocking pure souls from reaching the afterlife.
+These Hollows were not always monsters. Many were once gentle spirits, twisted by a darker force.
+To save them, the hero must defeat them. Not out of hatred, but to end their suffering.
+
+But Karakura Town is only the beginning...
+
+------------------------------------------------
+Location: Karakura Town | Danger: Low | Stage: 1
+Enemy: Hollow
+HP:140/140 | Difficulty: 5 | Region: Karakura Town
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs Hollow-1
+
+Turn: 1
+Ichigo HP: 155/155 | Hollow-1 HP: 140/140
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-1 HP: 115/140
+Hollow-1 raises its spiritual pressure and prepares to strike...
+Hollow-1 attacked. Damage taken: 15 | Ichigo HP: 140/155
+
+Turn: 2
+Ichigo HP: 140/155 | Hollow-1 HP: 115/140
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-1 HP: 90/140
+Hollow-1 raises its spiritual pressure and prepares to strike...
+Hollow-1 attacked. Damage taken: 15 | Ichigo HP: 125/155
+
+Turn: 3
+Ichigo HP: 125/155 | Hollow-1 HP: 90/140
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-1 HP: 65/140
+Hollow-1 raises its spiritual pressure and prepares to strike...
+Hollow-1 attacked. Damage taken: 15 | Ichigo HP: 110/155
+
+Turn: 4
+Ichigo HP: 110/155 | Hollow-1 HP: 65/140
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-1 HP: 40/140
+Hollow-1 raises its spiritual pressure and prepares to strike...
+Hollow-1 attacked. Damage taken: 15 | Ichigo HP: 95/155
+
+Turn: 5
+Ichigo HP: 95/155 | Hollow-1 HP: 40/140
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-1 HP: 15/140
+Hollow-1 raises its spiritual pressure and prepares to strike...
+Hollow-1 attacked. Damage taken: 15 | Ichigo HP: 80/155
+
+Turn: 6
+Ichigo HP: 80/155 | Hollow-1 HP: 15/140
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Error: Hollow-1 HP cannot fall below 0.
+Ichigo attacked. Hollow-1 HP: 0/140
+
+[VICTORY] Hollow-1 was defeated!
++50 coins earned. Budget: 100
+Your gift was added to your inventory.
+You earned a gift for defeating this enemy.
+Enter 1 to reveal your gift, or 0 to skip: 1
+Your gift: Hollow Potion | Heal: 35 | Price: 0
+
+Do you want to visit the shop before moving on? (1: Yes, 2: No): 1
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 100
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 5
+Soul Cutter was added to your inventory.
+Soul Cutter bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 10
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 0
+You left the shop.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 1
+
+------------------------------------------------
+Location: Karakura Town | Danger: Low | Stage: 2
+Enemy: Hollow
+HP:160/160 | Difficulty: 5 | Region: Karakura Town
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs Hollow-2
+
+Turn: 1
+Ichigo HP: 80/155 | Hollow-2 HP: 160/160
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-2 HP: 135/160
+Hollow-2 raises its spiritual pressure and prepares to strike...
+Hollow-2 attacked. Damage taken: 15 | Ichigo HP: 65/155
+
+Turn: 2
+Ichigo HP: 65/155 | Hollow-2 HP: 135/160
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-2 HP: 110/160
+Hollow-2 raises its spiritual pressure and prepares to strike...
+3Hollow-2 attacked. Damage taken: 15 | Ichigo HP: 50/155
+
+Turn: 3
+Ichigo HP: 50/155 | Hollow-2 HP: 110/160
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25 | Equipped
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60
+Active sword: Normal Shinigami Sword (25 damage)
+Active armour: None
+Enter 0 if you do not want to use an item.
+Item number to use: 3
+Soul Cutter equipped!
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Hollow-2 HP: 50/160
+Hollow-2 raises its spiritual pressure and prepares to strike...
+Hollow-2 attacked. Damage taken: 15 | Ichigo HP: 35/155
+
+Turn: 4
+Ichigo HP: 35/155 | Hollow-2 HP: 50/160
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Error: Hollow-2 HP cannot fall below 0.
+Ichigo attacked. Hollow-2 HP: 0/160
+
+[VICTORY] Hollow-2 was defeated!
++50 coins earned. Budget: 60
+Your gift was added to your inventory.
+You earned a gift for defeating this enemy.
+Enter 1 to reveal your gift, or 0 to skip: 1
+Your gift: Hollow Potion | Heal: 35 | Price: 0
+
+As the last Hollow fades, Karakura Town grows silent for the first time in days.
+But before Ichigo can rest, a message reaches him from Soul Society:
+Heaven itself is in danger.
+
+To reach Soul Society, Ichigo must cross Hueco Mundo, a dead world between despair and darkness.
+Hueco Mundo is not a place for the living, nor a place for peaceful souls.
+Its sky never brightens. Its ground is pale like bone.
+Every step echoes with the hunger of corrupted spirits.
+Here, the Arrancars wait.
+
+Do you want to visit the shop before moving on? (1: Yes, 2: No): 1
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 60
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 10
+Map Scroll was added to your inventory.
+Map Scroll bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 15
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 9
+Enemy Tip was added to your inventory.
+Enemy Tip bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 0
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 0
+You left the shop.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Hollow Potion | Heal: 35 | Price: 0
+5. Map Scroll | Reveals the full map | Price: 45
+6. Enemy Tip | Reveals the next unknown enemy | Price: 15
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 2
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Hollow Potion | Heal: 35 | Price: 0
+5. Map Scroll | Reveals the full map | Price: 45
+6. Enemy Tip | Reveals the next unknown enemy | Price: 15
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+Enter 0 if you do not want to use an item.
+Item number to use: 6
+
+--- Enemy Tip ---
+[INTELLIGENCE REPORT]
+Order: 3
+Region: Hueco Mundo
+Danger: Medium
+Enemy: Arrancar-1
+HP: 180/180
+Difficulty: 6
+------------------
+Inventory action finished.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 2
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Hollow Potion | Heal: 35 | Price: 0
+5. Map Scroll | Reveals the full map | Price: 45
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+Enter 0 if you do not want to use an item.
+Item number to use: 5
+
+--- MAP ---
+1. Region: Karakura Town | Danger: Low | Enemy: Hollow-1 | HP: 0/140 | Status: Defeated
+2. Region: Karakura Town | Danger: Low | Enemy: Hollow-2 | HP: 0/160 | Status: Defeated <- Current location
+3. Region: Hueco Mundo | Danger: Medium | Enemy: Arrancar-1 | HP: 180/180 | Status: Alive
+4. Region: Hueco Mundo | Danger: Medium | Enemy: Arrancar-2 | HP: 200/200 | Status: Alive
+5. Region: Hueco Mundo | Danger: Medium | Enemy: Arrancar-3 | HP: 220/220 | Status: Alive
+6. Region: Soul Society | Danger: High | Enemy: VastoLorde | HP: 600/600 | Status: Alive
+-------------
+
+Inventory action finished.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 1
+
+------------------------------------------------
+Location: Hueco Mundo | Danger: Medium | Stage: 3
+Enemy: Arrancar
+HP:180/180 | Difficulty: 6 | Region: Hueco Mundo
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs Arrancar-1
+
+Turn: 1
+Ichigo HP: 35/155 | Arrancar-1 HP: 180/180
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Hollow Potion | Heal: 35 | Price: 0
+3. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+4. Hollow Potion | Heal: 35 | Price: 0
+5. Map Scroll | Reveals the full map | Price: 45
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+Enter 0 if you do not want to use an item.
+Item number to use: 2
+Hollow Potion used! HP: 70/155
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Arrancar-1 HP: 120/180
+Arrancar-1 raises its spiritual pressure and prepares to strike...
+Arrancar-1 attacked. Damage taken: 30 | Ichigo HP: 40/155
+
+Turn: 2
+Ichigo HP: 40/155 | Arrancar-1 HP: 120/180
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+CRITIC DAMAGE!!
+Ichigo attacked. Arrancar-1 HP: 0/180
+
+[VICTORY] Arrancar-1 was defeated!
++120 coins earned. Budget: 120
+Your gift was added to your inventory.
+You earned a gift for defeating this enemy.
+Enter 1 to reveal your gift, or 0 to skip: 1
+Your gift: Arrancar Blade | Price: 0 | Damage: 50
+
+Do you want to visit the shop before moving on? (1: Yes, 2: No): 1
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 120
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 8
+Heavy Armour was added to your inventory.
+Heavy Armour bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 45
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 1
+Small Potion was added to your inventory.
+Small Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 25
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 1
+Small Potion was added to your inventory.
+Small Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 5
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 0
+You left the shop.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+3. Hollow Potion | Heal: 35 | Price: 0
+4. Map Scroll | Reveals the full map | Price: 45
+5. Arrancar Blade | Price: 0 | Damage: 50
+6. Heavy Armour | Price: 75 | Defense: 17
+7. Small Potion | Heal: 25 | Price: 20
+8. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 2
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+3. Hollow Potion | Heal: 35 | Price: 0
+4. Map Scroll | Reveals the full map | Price: 45
+5. Arrancar Blade | Price: 0 | Damage: 50
+6. Heavy Armour | Price: 75 | Defense: 17
+7. Small Potion | Heal: 25 | Price: 20
+8. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: None
+Enter 0 if you do not want to use an item.
+Item number to use: 6
+Heavy Armour equipped! Defense: 17
+Inventory action finished.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+3. Hollow Potion | Heal: 35 | Price: 0
+4. Map Scroll | Reveals the full map | Price: 45
+5. Arrancar Blade | Price: 0 | Damage: 50
+6. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+7. Small Potion | Heal: 25 | Price: 20
+8. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 4
+Error: Invalid next action choice!
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 12
+Error: Invalid next action choice!
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: adsfasd
+Error: Please enter a numeric value.
+Your choice: asdfasdf
+Error: Please enter a numeric value.
+Your choice: 1
+
+------------------------------------------------
+Location: Hueco Mundo | Danger: Medium | Stage: 4
+Enemy: Arrancar
+HP:200/200 | Difficulty: 7 | Region: Hueco Mundo
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs Arrancar-2
+
+Turn: 1
+Ichigo HP: 40/155 | Arrancar-2 HP: 200/200
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Arrancar-2 HP: 140/200
+Arrancar-2 raises its spiritual pressure and prepares to strike...
+Arrancar-2 attacked. Damage taken: 18 | Ichigo HP: 22/155
+
+Turn: 2
+Ichigo HP: 22/155 | Arrancar-2 HP: 140/200
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+CRITIC DAMAGE!!
+Ichigo attacked. Arrancar-2 HP: 20/200
+Arrancar-2 raises its spiritual pressure and prepares to strike...
+Arrancar-2 attacked. Damage taken: 18 | Ichigo HP: 4/155
+
+Turn: 3
+Ichigo HP: 4/155 | Arrancar-2 HP: 20/200
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Error: Arrancar-2 HP cannot fall below 0.
+Ichigo attacked. Arrancar-2 HP: 0/200
+
+[VICTORY] Arrancar-2 was defeated!
++140 coins earned. Budget: 145
+This enemy did not drop a gift.
+
+Do you want to visit the shop before moving on? (1: Yes, 2: No): 1
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 145
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 2
+Big Potion was added to your inventory.
+Big Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 95
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 2
+Big Potion was added to your inventory.
+Big Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 45
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 1
+Small Potion was added to your inventory.
+Small Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 25
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 1
+Small Potion was added to your inventory.
+Small Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 5
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 0
+You left the shop.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+3. Hollow Potion | Heal: 35 | Price: 0
+4. Map Scroll | Reveals the full map | Price: 45
+5. Arrancar Blade | Price: 0 | Damage: 50
+6. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+7. Small Potion | Heal: 25 | Price: 20
+8. Small Potion | Heal: 25 | Price: 20
+9. Big Potion | Heal: 65 | Price: 50
+10. Big Potion | Heal: 65 | Price: 50
+11. Small Potion | Heal: 25 | Price: 20
+12. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: sassfda
+Error: Please enter a numeric value.
+Your choice: 12213
+Error: Invalid next action choice!
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 1
+
+------------------------------------------------
+Location: Hueco Mundo | Danger: Medium | Stage: 5
+Enemy: Arrancar
+HP:220/220 | Difficulty: 9 | Region: Hueco Mundo
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs Arrancar-3
+
+Turn: 1
+Ichigo HP: 4/155 | Arrancar-3 HP: 220/220
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: asdfasdf
+Error: Please enter a numeric value.
+Your choice: 54645
+Error: Invalid combat choice!
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+3. Hollow Potion | Heal: 35 | Price: 0
+4. Map Scroll | Reveals the full map | Price: 45
+5. Arrancar Blade | Price: 0 | Damage: 50
+6. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+7. Small Potion | Heal: 25 | Price: 20
+8. Small Potion | Heal: 25 | Price: 20
+9. Big Potion | Heal: 65 | Price: 50
+10. Big Potion | Heal: 65 | Price: 50
+11. Small Potion | Heal: 25 | Price: 20
+12. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 3
+Hollow Potion used! HP: 39/155
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+CRITIC DAMAGE!!
+Ichigo attacked. Arrancar-3 HP: 100/220
+Arrancar-3 raises its spiritual pressure and prepares to strike...
+Arrancar-3 attacked. Damage taken: 28 | Ichigo HP: 11/155
+
+Turn: 2
+Ichigo HP: 11/155 | Arrancar-3 HP: 100/220
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+3. Map Scroll | Reveals the full map | Price: 45
+4. Arrancar Blade | Price: 0 | Damage: 50
+5. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+6. Small Potion | Heal: 25 | Price: 20
+7. Small Potion | Heal: 25 | Price: 20
+8. Big Potion | Heal: 65 | Price: 50
+9. Big Potion | Heal: 65 | Price: 50
+10. Small Potion | Heal: 25 | Price: 20
+11. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 6
+Small Potion used! HP: 36/155
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+3. Map Scroll | Reveals the full map | Price: 45
+4. Arrancar Blade | Price: 0 | Damage: 50
+5. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+6. Small Potion | Heal: 25 | Price: 20
+7. Big Potion | Heal: 65 | Price: 50
+8. Big Potion | Heal: 65 | Price: 50
+9. Small Potion | Heal: 25 | Price: 20
+10. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 6
+Small Potion used! HP: 61/155
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. Arrancar-3 HP: 40/220
+Arrancar-3 raises its spiritual pressure and prepares to strike...
+Arrancar-3 attacked. Damage taken: 28 | Ichigo HP: 33/155
+
+Turn: 3
+Ichigo HP: 33/155 | Arrancar-3 HP: 40/220
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+Arrancar-3 raises its spiritual pressure and prepares to strike...
+Arrancar-3 attacked. Damage taken: 14 | Ichigo HP: 19/155
+Ichigo blocked the attack, but could not find a counter opening.
+
+Turn: 4
+Ichigo HP: 19/155 | Arrancar-3 HP: 40/220
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+Arrancar-3 raises its spiritual pressure and prepares to strike...
+Arrancar-3 attacked. Damage taken: 14 | Ichigo HP: 5/155
+Ichigo blocked the attack, but could not find a counter opening.
+
+Turn: 5
+Ichigo HP: 5/155 | Arrancar-3 HP: 40/220
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+3. Map Scroll | Reveals the full map | Price: 45
+4. Arrancar Blade | Price: 0 | Damage: 50
+5. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+6. Big Potion | Heal: 65 | Price: 50
+7. Big Potion | Heal: 65 | Price: 50
+8. Small Potion | Heal: 25 | Price: 20
+9. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 9
+Small Potion used! HP: 30/155
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+Arrancar-3 raises its spiritual pressure and prepares to strike...
+Arrancar-3 attacked. Damage taken: 14 | Ichigo HP: 16/155
+Ichigo blocked the attack, but could not find a counter opening.
+
+Turn: 6
+Ichigo HP: 16/155 | Arrancar-3 HP: 40/220
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 2
+Ichigo takes a defensive stance and waits for an opening...
+Incoming damage will be reduced. There is also a 35% chance to counterattack.
+Arrancar-3 raises its spiritual pressure and prepares to strike...
+Arrancar-3 attacked. Damage taken: 14 | Ichigo HP: 2/155
+Ichigo blocked the attack, but could not find a counter opening.
+
+Turn: 7
+Ichigo HP: 2/155 | Arrancar-3 HP: 40/220
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Error: Arrancar-3 HP cannot fall below 0.
+Ichigo attacked. Arrancar-3 HP: 0/220
+
+[VICTORY] Arrancar-3 was defeated!
++180 coins earned. Budget: 185
+Your gift was added to your inventory.
+You earned a gift for defeating this enemy.
+Enter 1 to reveal your gift, or 0 to skip: 1
+Your gift: Arrancar Potion | Heal: 60 | Price: 0
+
+With the Arrancars defeated, the path to Soul Society opens.
+But their final words reveal the truth:
+They were not the source of this nightmare. They were only servants.
+The one behind everything is Vasto Lorde.
+
+Soul Society should have been a place of peace.
+But now its gates tremble under a pressure older than memory.
+Vasto Lorde has waited since the beginning of time to claim every soul beyond death.
+If he wins, no spirit will ever find peace again.
+
+Do you want to visit the shop before moving on? (1: Yes, 2: No): 1
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 185
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 2
+Big Potion was added to your inventory.
+Big Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 135
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 2
+Big Potion was added to your inventory.
+Big Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 85
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 2
+Big Potion was added to your inventory.
+Big Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 35
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 1
+Small Potion was added to your inventory.
+Small Potion bought successfully!
+
+--- SHOP ---
+1. Small Potion | Heal: 25 | Price: 20
+2. Big Potion | Heal: 65 | Price: 50
+3. Training Sword | Price: 30 | Damage: 35
+4. Zangetsu Sword | Price: 60 | Damage: 45
+5. Soul Cutter | Price: 90 | Damage: 60
+6. Bankai Sword | Price: 120 | Damage: 75
+7. Light Armour | Price: 40 | Defense: 10
+8. Heavy Armour | Price: 75 | Defense: 17
+9. Enemy Tip | Reveals the next unknown enemy | Price: 15
+10. Map Scroll | Reveals the full map | Price: 45
+Budget: 15
+Enter a product number to buy it, or 0 to leave the shop.
+Your choice: 0
+You left the shop.
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 60 | Equipped
+3. Map Scroll | Reveals the full map | Price: 45
+4. Arrancar Blade | Price: 0 | Damage: 50
+5. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+6. Big Potion | Heal: 65 | Price: 50
+7. Big Potion | Heal: 65 | Price: 50
+8. Small Potion | Heal: 25 | Price: 20
+9. Arrancar Potion | Heal: 60 | Price: 0
+10. Big Potion | Heal: 65 | Price: 50
+11. Big Potion | Heal: 65 | Price: 50
+12. Big Potion | Heal: 65 | Price: 50
+13. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (60 damage)
+Active armour: Heavy Armour (17 defense)
+
+Next action:
+1. Move forward
+2. Use inventory
+3. Show inventory
+Your choice: 1
+
+=======================================================
+[EPIC SUPPORT] Your allies arrive at the gate of Vasto Lorde!
+Melisa and Aslan transfer their power to you for the final battle!
+Melisa supported you: 160 healing was attempted. HP 2 -> 155/155
+Aslan supported you: Soul Cutter damage increased by +70 (60 -> 130).
+=======================================================
+
+
+------------------------------------------------
+Location: Soul Society | Danger: High | Stage: 6
+Enemy: Vasto Lorde
+HP:600/600 | Difficulty: 12 | Region: Soul Society
+------------------------------------------------
+
+[FIGHT STARTED] Ichigo vs VastoLorde
+
+Turn: 1
+Ichigo HP: 155/155 | VastoLorde HP: 600/600
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. VastoLorde HP: 470/600
+VastoLorde raises its spiritual pressure and prepares to strike...
+VastoLorde attacked. Damage taken: 115 | Ichigo HP: 40/155
+
+Turn: 2
+Ichigo HP: 40/155 | VastoLorde HP: 470/600
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 3
+
+--- INVENTORY ---
+1. Normal Shinigami Sword | Price: 0 | Damage: 25
+2. Soul Cutter | Price: 90 | Damage: 130 | Equipped
+3. Map Scroll | Reveals the full map | Price: 45
+4. Arrancar Blade | Price: 0 | Damage: 50
+5. Heavy Armour | Price: 75 | Defense: 17 | Equipped
+6. Big Potion | Heal: 65 | Price: 50
+7. Big Potion | Heal: 65 | Price: 50
+8. Small Potion | Heal: 25 | Price: 20
+9. Arrancar Potion | Heal: 60 | Price: 0
+10. Big Potion | Heal: 65 | Price: 50
+11. Big Potion | Heal: 65 | Price: 50
+12. Big Potion | Heal: 65 | Price: 50
+13. Small Potion | Heal: 25 | Price: 20
+Active sword: Soul Cutter (130 damage)
+Active armour: Heavy Armour (17 defense)
+Enter 0 if you do not want to use an item.
+Item number to use: 9
+Arrancar Potion used! HP: 100/155
+Inventory action finished.
+Inventory is now ready for you to use. Be careful and choose wisely...
+1. Attack
+2. Defend
+3. Use inventory
+4. Escape
+Your choice: 1
+Ichigo grips the sword and rushes forward...
+Ichigo attacked. VastoLorde HP: 340/600
+VastoLorde raises its spiritual pressure and prepares to strike...
+Error: Hero HP cannot fall below 0.
+VastoLorde attacked. Damage taken: 100 | Ichigo HP: 0/155
+
+[GAME OVER] Ichigo lost his soul... You were defeated.
+
+Your journey summary is being prepared. Please wait...
+[SYSTEM] Game summary was saved to your_history_2.txt.
+
+Do you want to play again? (1: Yes, 2: No): 1
+ERROR: You can play a maximum of 2 times. A third attempt is not allowed.
