@@ -9,7 +9,6 @@ Inspired by supernatural anime lore, players take on the role of a guardian navi
 
 ## Documentation and Architecture
 For a deep dive into the game's architecture and design decisions, please review the documentation:
-* Project Report (PDF): Detailed explanation of the technical approaches and OOP implementations. Located at docs/SoulReaper_report.pdf.
 * UML Diagram: Visual representation of the system's class structures and relationships. Located at docs/UML_Diagram.png.
 * Javadoc: Full technical documentation for all methods is available at docs/javadoc/index.html.
 
